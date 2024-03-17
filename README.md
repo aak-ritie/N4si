@@ -22,10 +22,6 @@ I'm a passionate learner, currently diving deep into the world of blockchain and
 2. [Project Name](link-to-project) - Description of the project.
 3. [Project Name](link-to-project) - Description of the project.
 
-## GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=aak-ritie&show_icons=true)
-
 ## Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/aakriti-bhusal-39b8912a4/)
