@@ -16,12 +16,6 @@ I'm a passionate learner, currently diving deep into the world of blockchain and
 - Blockchain: Ethereum, ether.js
 - Tools: Git, Visual Studio Code, Hardhat, Ganache
 
-## Projects
-
-1. [Project Name](link-to-project) - Description of the project.
-2. [Project Name](link-to-project) - Description of the project.
-3. [Project Name](link-to-project) - Description of the project.
-
 ## Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/aakriti-bhusal-39b8912a4/)
