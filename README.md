@@ -20,4 +20,4 @@ I'm a passionate learner, currently diving deep into the world of blockchain and
 
 - [LinkedIn](https://www.linkedin.com/in/aakriti-bhusal-39b8912a4/)
 - [Twitter](https://twitter.com/aak_ritie)
-- [Website](https://www.aakritibhusal.com.np)
+- [Website](https://aakritibhusal.com.np/)
