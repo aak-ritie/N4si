@@ -25,3 +25,10 @@ I'm a passionate learner, currently diving deep into the world of blockchain and
 
 [![Aakriti's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aak-ritie)](https://github.com/aak-ritie)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aak-ritie&layout=compact)](https://github.com/aak-ritie)
+
+
+
+
+
+
