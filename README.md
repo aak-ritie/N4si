@@ -10,7 +10,7 @@ I'm a passionate learner, currently diving deep into the world of blockchain and
 
 ## I am familiar with following Languages and Tools
 
-- Programming Languages: JavaScript, Solidity
+- Programming Languages: JavaScript, Solidity, C#
 - Frontend: React.js, HTML, CSS
 - Blockchain: Ethereum, ether.js
 - Tools: Git, Visual Studio Code, Hardhat, Ganache
