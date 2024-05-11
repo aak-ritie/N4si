@@ -5,7 +5,6 @@ I'm a passionate learner, currently diving deep into the world of blockchain and
 ## About Me
 
 - 🔭 I’m currently working on mastering Solidity and building decentralized applications.
-- 🌱 I’m currently learning React.js for frontend development.
 - 👯 I’m looking to collaborate on blockchain-related projects and DApp development.
 - 📫 How to reach me: mail@aakritibhusal.com.np
 
