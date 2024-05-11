@@ -21,7 +21,7 @@ I'm a passionate learner, currently diving deep into the world of blockchain and
 - [Twitter](https://twitter.com/aak_ritie)
 - [Website](https://aakritibhusal.com.np/)
   
-## GitHub Activity and Learning Focus
+## GitHub Activity 
 
 [![Aakriti's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aak-ritie)](https://github.com/aak-ritie)
 
